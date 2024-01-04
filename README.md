@@ -23,7 +23,7 @@ The code snippets are structured to cover a wide range of Java concepts, from ba
 
 Let's connect and learn together! Feel free to reach out for discussions, questions, or just to say hi.
 
-- LinkedIn: [Your LinkedIn Profile][(https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/feed/))
+- LinkedIn:(https://www.linkedin.com/in/your-profile/](https://www.linkedin.com/feed/))
 
 ## Acknowledgments
 
